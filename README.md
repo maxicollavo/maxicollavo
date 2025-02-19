@@ -1,4 +1,5 @@
-<h1>🙋🏻‍♂️ Hi, I'm Maxi! <br/><a>Unity Developer:</a> <a>Programmer, Game Designer & 3D Artist</a>
+<h1>🙋🏻‍♂️ Hi, I'm Maxi! <br/><a>Unity Developer:</a> <a>Programmer, Game Designer & 3D Artist</a></h1>
+<h2 style="font-size: 0.9em; display: inline;">C#, Unity, Unreal Engine, Maya, Substance Painter, Zbrush</h2>
 
 <h2>👨‍💻 My university career projects:</h2>
 
