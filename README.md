@@ -1,4 +1,4 @@
-<h1>🙋🏻‍♂️ Hi, I'm Maxi! <br/><a>Unity Developer:</a> <a>Programmer, Game and Level Designer & 3D Artist</a>
+<h1>🙋🏻‍♂️ Hi, I'm Maxi! <br/><a>Unity Developer:</a> <a>Programmer, Game Designer & 3D Artist</a>
 
 <h2>👨‍💻 My university career projects:</h2>
 
