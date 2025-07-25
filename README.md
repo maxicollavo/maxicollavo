@@ -13,10 +13,12 @@
   - [Tales Of Reiss](https://github.com/maxicollavo/TalesOfReiss)
 - <b>Fifth-Quarter: 3D Shooter Game</b>
   - [Argen's Demon](https://github.com/maxicollavo/chef/)
-- <b>Fifth-Quarter: Thesis</b>
+- <b>Fifth-Quarter: 3D Puzzle Game</b>
   - [Inhuman Project](https://github.com/maxicollavo/InhumanThesis)
+ - <b>Sixth-Quarter: Thesis</b>
+  - [Tepet's Pyramid](https://github.com/maxicollavo/NewTepet)
 
-<h1>🎮 Footage from my thesis:</h1>
+<h1>🎮 Footage from my fifth-quarter project:</h1>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNhZ3Rlazk3aXBhYzc4aWdqdzQ1MXR5MzBmcTV5dnRob3cxNnhuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MeSigT9aLZH607f3JP/giphy.gif" alt="GIF animado" width="200px"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanV0M2Zjbjlic2ZocWJjMDJwbmw1ajBkaWpjaXV1ZDRyMDU5aWI4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nORScGGOzhbjbRHqr6/giphy.gif" alt="GIF animado" width="200px"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjBieDkxYXhxejV6aXB3Ym5wNW9pbXNnZjhlamUwcmdodTMxajlqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PaSwThM4jEPDxU23VW/giphy.gif" alt="GIF animado" width="200px"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZtNmg4MnR2cWhyNnh1eG52YjMzdHY5c3dmb3Q4OTFibGlhMmNlNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/72QBACs3nMf1DITgRV/giphy.gif" alt="GIF animado" width="200px">
 
