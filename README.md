@@ -15,7 +15,7 @@
   - [Argen's Demon](https://github.com/maxicollavo/chef/)
 - <b>Fifth-Quarter: 3D Puzzle Game</b>
   - [Inhuman Project](https://github.com/maxicollavo/InhumanThesis)
- - <b>Sixth-Quarter: Thesis</b>
+- <b>Sixth-Quarter: Thesis</b>
   - [Tepet's Pyramid](https://github.com/maxicollavo/NewTepet)
 
 <h1>🎮 Footage from my fifth-quarter project:</h1>
